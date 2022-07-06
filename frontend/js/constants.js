@@ -1,7 +1,7 @@
 const contractAddress = "0x138c869e5c21B216189f2ba67a140605095f98C0"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the Masuku Girls NFT Project!!";
+const welcome_h1 = "Welcome to the Masuku Girls NFT Project!! Mint it NOWWWWW";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'This is a test, just to make sure everything is working';
 const welcome_p2 = 'This is a test, just to make sure everything is working properly, if it do not, well its over';
